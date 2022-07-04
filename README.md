@@ -1,7 +1,7 @@
 
 A fully responsive full Stack ECommerce Application with Stripe & Sanity.
 
-Link : ![https://master-sounds.vercel.app/](https://master-sounds.vercel.app/)
+<strong>Link: [https://master-sounds.vercel.app/](https://master-sounds.vercel.app/)</strong>
 
 ## Specifications
 - State Management of the entire application has been done using React Context API.
